@@ -25,7 +25,7 @@
 <p>Chaser provides the following services:</p>
 <ul>
 <li><strong>Shop Finder:</strong> Discover trading card shops near your location or a searched location, view shop details, distance, operating hours, and images.</li>
-<li><strong>Event Calendar:</strong> Browse upcoming trading card events (tournaments, meetups, releases) in your area, view event details, and set reminders via push notifications.</li>
+<li><strong>Event Calendar:</strong> Browse upcoming trading card events in your area, view event details, and set reminders via push notifications.</li>
 <li><strong>Release Tracker:</strong> View upcoming trading card product releases, filter by sport, brand, and status, and receive notifications when release statuses change.</li>
 <li><strong>Favorites:</strong> Save your favorite shops, events, and releases for quick access.</li>
 <li><strong>Notifications:</strong> Receive push notifications for events and releases you subscribe to via bell alerts.</li>
