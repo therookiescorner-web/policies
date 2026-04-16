@@ -1,40 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Chaser - Terms of Use</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background-color: #000000;
-    color: #E0E0E0;
-    line-height: 1.7;
-    padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  h1 { color: #FFFFFF; font-size: 28px; margin-bottom: 8px; margin-top: 40px; }
-  h2 { color: #FFFFFF; font-size: 20px; margin-top: 32px; margin-bottom: 12px; }
-  h3 { color: #FFFFFF; font-size: 16px; margin-top: 20px; margin-bottom: 8px; }
-  p { margin-bottom: 14px; font-size: 15px; }
-  ul { margin-bottom: 14px; padding-left: 24px; }
-  li { margin-bottom: 6px; font-size: 15px; }
-  a { color: #4A90E2; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  .effective-date { color: #999999; font-size: 14px; margin-bottom: 32px; }
-  .section { margin-bottom: 24px; }
-  .divider { border: none; border-top: 1px solid #333333; margin: 32px 0; }
-  strong { color: #FFFFFF; }
-</style>
-</head>
-<body>
+# Terms of Use
 
-<h1>Terms of Use</h1>
-<p class="effective-date">Effective Date: April 16, 2026</p>
+*Effective Date: April 16, 2026*
 
-<div class="section">
 <p>Welcome to Chaser. These Terms of Use ("Terms") govern your access to and use of the Chaser mobile application (the "App") operated by Chaser ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.</p>
 </div>
 
