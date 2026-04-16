@@ -29,7 +29,7 @@
 <li><strong>Release Tracker:</strong> View upcoming trading card product releases, filter by sport, brand, and status, and receive notifications when release statuses change.</li>
 <li><strong>Favorites:</strong> Save your favorite shops, events, and releases for quick access.</li>
 <li><strong>Notifications:</strong> Receive push notifications for events and releases you subscribe to via bell alerts.</li>
-<li><strong>Business Accounts:</strong> Verified business users may create and manage events within the App.</li>
+
 </ul>
 
 <hr class="divider" />
@@ -62,7 +62,6 @@
 <p>You agree not to:</p>
 <ul>
 <li>Use the App for any unlawful purpose or in violation of any applicable laws or regulations</li>
-<li>Submit false, misleading, or fraudulent information, including fabricated events or fake business accounts</li>
 <li>Attempt to gain unauthorized access to the App, other accounts, servers, or networks connected to the App</li>
 <li>Interfere with or disrupt the operation of the App or the servers and networks used to make the App available</li>
 <li>Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the App</li>
@@ -71,17 +70,6 @@
 <li>Upload or transmit viruses, malware, or any other harmful code</li>
 <li>Harass, abuse, or harm other users of the App</li>
 <li>Use the App to send spam or unsolicited communications</li>
-</ul>
-
-<hr class="divider" />
-
-<h2>6. User-Created Content</h2>
-<p>If you are a verified business user, you may create and submit events through the App. By submitting content, you:</p>
-<ul>
-<li>Represent that the information is accurate and that you have the right to share it</li>
-<li>Grant us a non-exclusive, worldwide, royalty-free license to use, display, and distribute such content within the App</li>
-<li>Acknowledge that we may review, moderate, or remove user-created content at our sole discretion</li>
-<li>Accept responsibility for the content you submit and any consequences arising from it</li>
 </ul>
 
 <hr class="divider" />
